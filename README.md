@@ -12,6 +12,9 @@
     <a href="https://github.com/ThisKwasior/KwasTools">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThisKwasior&repo=KwasTools&show_icons=true&title_color=00a7ff&text_color=007dff&icon_color=908F68&bg_color=191a30" />
     </a>
+    <a href="https://github.com/ThisKwasior/wcec">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThisKwasior&repo=wcec&show_icons=true&title_color=00a7ff&text_color=007dff&icon_color=908F68&bg_color=191a30" />
+    </a>
     <a href="https://github.com/ThisKwasior/Sonic-Paradox-Video-for-Windows-Player">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThisKwasior&repo=Sonic-Paradox-Video-for-Windows-Player&show_icons=true&title_color=00a7ff&text_color=007dff&icon_color=908F68&bg_color=191a30" />
     </a>
